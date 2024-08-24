@@ -25,7 +25,7 @@ def clean_text(text):
     return text
 
 df['Cleaned_Resume'] = df['Resume'].apply(clean_text)
-
+print(df['Category'].unique())
 vectorizer = TfidfVectorizer(max_features=5000)
 X = vectorizer.fit_transform(df['Cleaned_Resume'])
 
