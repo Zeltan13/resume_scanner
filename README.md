@@ -31,7 +31,7 @@ Ever wondered what job your resume screams out for? This project leverages machi
 
 ## 💡 Inspiration
 
-This project was inspired by the idea of combining my love for NLP with a practical application that many people could find useful. Plus, it was a fun way to dive deeper into how text data can be used in machine learning.
+This project was inspired by the idea of applying to too much internships that doesn't match my CV with a practical application that many people could find useful. Plus, it was a fun way to dive deeper into how text data can be used in machine learning.
 
 ## 🛠️ Getting Started
 
